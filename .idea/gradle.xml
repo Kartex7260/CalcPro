@@ -10,10 +10,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/calcpro" />
             <option value="$PROJECT_DIR$/core" />
-            <option value="$PROJECT_DIR$/data" />
-            <option value="$PROJECT_DIR$/data/calculator" />
-            <option value="$PROJECT_DIR$/data/calculator/api" />
+            <option value="$PROJECT_DIR$/feat" />
+            <option value="$PROJECT_DIR$/feat/calculator" />
+            <option value="$PROJECT_DIR$/ui" />
+            <option value="$PROJECT_DIR$/ui/calc" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

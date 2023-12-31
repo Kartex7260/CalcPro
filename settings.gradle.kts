@@ -15,6 +15,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "CalcPro"
 include(":app")
-include(":data")
-include(":data:calculator:api")
 include(":core")
+include(":app:calcpro")
+include(":ui:calc")
+include(":feat:calculator")
